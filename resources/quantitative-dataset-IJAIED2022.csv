@@ -1,0 +1,236 @@
+﻿pid;status;game_elements;design;session;int1;ide1;ext1;amo1;int2;ide2;ext2;amo2;int3;ide3;ext3;amo3;int4;ide4;ext4;amo4;intrinsic_motivation;identified_regulation;external_regulation;amotivation;errorsPerItem;gender;age;prefgamegenre;prefplayingsetting;weeklyplayingtime;educationlevel;researchedgamification;subject;institution;daysAfter
+1 Inst1;Ok;CCT;Pers;0;7;7;7;6;7;7;6;5;7;6;4;6;6;7;7;5;6,75;6,75;6;5,5;0,666666667;Male;22;Action;Multiplayer;2;Technical;No;POO;Inst1;0
+1 Inst1;Ok;CCT;Pers;1;6;5;5;7;7;6;5;6;7;6;6;6;6;5;7;6;6,5;5,5;5,75;6,25;0,933333333;Male;22;Action;Multiplayer;2;Technical;No;POO;Inst1;28
+2 Inst1;Ok;AOP;Pers;0;7;7;7;5;5;5;7;1;7;7;1;4;5;6;7;4;6;6,25;5,5;3,5;1,766666667;Male;21;RPG;Singleplayer;6;High school;No;POO;Inst1;0
+2 Inst1;Ok;AOP;Pers;1;5;5;5;5;5;6;5;5;5;5;5;5;5;6;5;5;5;5,5;5;5;1,666666667;Male;21;RPG;Singleplayer;6;High school;No;POO;Inst1;28
+3 Inst1;Ok;PBL;OSFA;0;7;7;7;5;7;7;7;5;7;1;2;2;7;6;6;1;7;5,25;5,5;3,25;1,233333333;Male;21;RPG;Multiplayer;12;High school;No;POO;Inst1;0
+4 Inst1;Ok;PBL;OSFA;0;7;7;5;1;6;7;6;1;6;4;1;1;6;7;6;1;6,25;6,25;4,5;1;0,433333333;Male;22;Action;Multiplayer;10;High school;No;POO;Inst1;0
+4 Inst1;Ok;PBL;OSFA;1;6;5;1;1;5;5;6;1;5;1;4;1;4;7;6;1;5;4,5;4,25;1;0,5;Male;22;Action;Multiplayer;10;High school;No;POO;Inst1;28
+5 Inst1;Ok;PBL;OSFA;0;7;7;7;7;7;7;4;1;7;7;1;1;7;7;7;1;7;7;4,75;2,5;1,5;Male;19;FPS;Multiplayer;24;High school;No;POO;Inst1;0
+5 Inst1;Ok;PBL;OSFA;1;7;7;7;1;7;7;7;1;7;4;1;1;7;7;7;1;7;6,25;5,5;1;1,533333333;Male;19;FPS;Multiplayer;24;High school;No;POO;Inst1;28
+6 Inst1;Ok;AOP;Pers;0;7;7;2;1;7;7;4;1;6;6;1;1;6;7;7;1;6,5;6,75;3,5;1;1,3;Male;22;RPG;Multiplayer;20;High school;No;POO;Inst1;0
+6 Inst1;Ok;AOP;Pers;1;5;7;5;1;6;6;5;3;5;5;5;4;5;7;6;1;5,25;6,25;5,25;2,25;1,333333333;Male;22;RPG;Multiplayer;20;High school;No;POO;Inst1;28
+7 Inst1;Ok;AOP;Pers;0;7;6;7;2;5;5;5;3;5;5;1;2;4;4;4;3;5,25;5;4,25;2,5;1,2;Male;19;Adventure;Multiplayer;3;High school;No;POO;Inst1;0
+8 Inst1;Ok;CCT;Pers;0;7;6;5;1;6;6;7;1;5;5;5;1;6;6;6;5;6;5,75;5,75;2;1,133333333;Male;22;Action;Multiplayer;10;High school;No;POO;Inst1;0
+8 Inst1;Ok;CCT;Pers;1;6;6;3;2;6;6;7;1;6;5;2;1;6;6;7;2;6;5,75;4,75;1,5;1,2;Male;22;Action;Multiplayer;10;High school;No;POO;Inst1;28
+9 Inst1;Ok;PBL;OSFA;0;7;5;4;2;7;5;4;3;6;5;1;2;7;5;5;3;6,75;5;3,5;2,5;0,466666667;Male;19;Action;Multiplayer;6;High school;No;POO;Inst1;0
+10 Inst1;Ok;CCT;Pers;0;6;6;5;5;5;4;6;6;4;7;6;4;4;6;6;4;4,75;5,75;5,75;4,75;1,166666667;Male;21;Action;Multiplayer;30;High school;No;POO;Inst1;0
+10 Inst1;Ok;CCT;Pers;1;3;7;4;3;3;4;4;4;2;6;4;5;3;5;5;4;2,75;5,5;4,25;4;1,366666667;Male;21;Action;Multiplayer;30;High school;No;POO;Inst1;32
+11 Inst1;Ok;PBL;OSFA;0;4;3;5;5;2;5;5;4;4;4;4;4;3;4;5;4;3,25;4;4,75;4,25;1,233333333;Male;23;Action;Multiplayer;5;Undergrad student;Yes;POO;Inst1;0
+11 Inst1;Ok;PBL;OSFA;1;3;1;3;3;3;1;7;4;2;3;7;2;2;1;5;4;2,5;1,5;5,5;3,25;1,333333333;Male;23;Action;Multiplayer;5;Undergrad student;Yes;POO;Inst1;25
+12 Inst1;Ok;PBL;OSFA;0;6;4;7;2;5;6;7;4;6;1;5;5;5;6;5;4;5,5;4,25;6;3,75;0,933333333;Male;20;Adventure;Multiplayer;21;Technical;Yes;POO;Inst1;0
+13 Inst1;Didn't use;AOP;Pers;0;6;5;4;5;6;6;4;2;6;4;6;1;5;6;5;4;5,75;5,25;4,75;3;;Male;20;Action;Multiplayer;10;High school;No;POO;Inst1;0
+13 Inst1;Late;AOP;Pers;1;5;5;6;5;5;5;6;6;5;5;5;5;5;5;6;5;5;5;5,75;5,25;0,233333333;Male;20;Action;Multiplayer;10;High school;No;POO;Inst1;28
+14 Inst1;Late;AOP;Pers;0;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;1,2;Male;20;Action;Multiplayer;10;High school;No;POO;Inst1;0
+14 Inst1;Late;AOP;Pers;1;4;5;5;5;6;5;6;4;5;5;4;4;5;5;4;4;5;5;4,75;4,25;1,633333333;Male;20;Action;Multiplayer;10;High school;No;POO;Inst1;28
+15 Inst1;Didn't use;;;0;6;4;4;3;5;5;3;1;6;7;1;2;7;4;7;1;6;5;3,75;1,75;;Male;22;RPG;Multiplayer;12;Technical;No;POO;Inst1;0
+16 Inst1;Didn't use;;;0;7;7;6;1;7;7;5;1;6;6;2;1;6;7;6;2;6,5;6,75;4,75;1,25;;Female;21;Strategy;Singleplayer;2;High school;No;POO;Inst1;0
+1 Inst2;Ok;PBL;OSFA;1;7;6;5;1;7;5;6;1;6;6;1;1;6;7;6;2;6,5;6;4,5;1,25;0,933333333;Female;18;Action;Multiplayer;4;High school;No;IPC;Inst2;0
+2 Inst2;Ok;AOP;Pers;0;6;6;6;1;6;7;6;1;5;6;1;1;6;6;6;1;5,75;6,25;4,75;1;1,233333333;Female;20;Adventure;Singleplayer;3;Undergrad student;No;IPC;Inst2;0
+2 Inst2;Ok;AOP;Pers;1;6;7;6;2;6;7;6;1;6;7;2;2;6;7;7;2;6;7;5,25;1,75;1,6;Female;20;Adventure;Singleplayer;3;Undergrad student;No;IPC;Inst2;43
+3 Inst2;Ok;AOP;Pers;0;7;7;5;1;6;7;5;1;6;7;1;7;7;7;7;1;6,5;7;4,5;2,5;0,833333333;Male;28;Adventure;Multiplayer;12;Technical;No;IPC;Inst2;0
+4 Inst2;Ok;PBL;OSFA;0;7;7;2;1;7;7;4;1;7;7;1;1;7;7;7;1;7;7;3,5;1;0,5;Female;20;Adventure;Multiplayer;2;Undergraduation;No;IPC;Inst2;0
+4 Inst2;Ok;PBL;OSFA;1;7;7;1;1;7;7;4;1;7;6;1;1;7;7;5;1;7;6,75;2,75;1;0,266666667;Female;20;Adventure;Multiplayer;2;Undergraduation;No;IPC;Inst2;42
+5 Inst2;Ok;PBL;OSFA;0;7;7;6;7;7;7;7;1;7;1;1;1;7;7;7;7;7;5,5;5,25;4;0,8;Female;21;Strategy;Singleplayer;0;Technical;No;IPC;Inst2;0
+5 Inst2;Ok;PBL;OSFA;1;7;5;2;1;7;7;1;1;7;4;1;1;7;7;7;7;7;5,75;2,75;2,5;0,866666667;Female;21;Strategy;Singleplayer;0;Technical;No;IPC;Inst2;44
+6 Inst2;Ok;PBL;OSFA;0;7;7;7;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;5,5;1;1,133333333;Female;24;Adventure;Multiplayer;30;Undergraduation;Yes;IPC;Inst2;0
+7 Inst2;Ok;AOP;Pers;0;5;5;6;3;5;5;7;3;4;2;2;1;3;6;7;3;4,25;4,5;5,5;2,5;0,733333333;Female;19;Adventure;Multiplayer;0;High school;No;IPC;Inst2;0
+7 Inst2;Ok;AOP;Pers;1;4;6;4;2;4;6;5;1;2;3;2;2;3;6;5;2;3,25;5,25;4;1,75;1,066666667;Female;19;Adventure;Multiplayer;0;High school;No;IPC;Inst2;42
+8 Inst2;Ok;PBL;OSFA;0;7;7;4;7;5;5;3;2;4;3;3;1;4;6;3;1;5;5,25;3,25;2,75;0,5;Female;18;Strategy;Multiplayer;5;High school;No;IPC;Inst2;0
+8 Inst2;Ok;PBL;OSFA;1;6;7;4;1;5;7;3;3;5;5;1;1;5;6;6;2;5,25;6,25;3,5;1,75;0,4;Female;18;Strategy;Multiplayer;5;High school;No;IPC;Inst2;44
+10 Inst2;Ok;PBL;OSFA;0;7;7;1;1;7;7;3;1;7;7;1;1;7;7;7;1;7;7;3;1;0,6;Male;26;Strategy;Singleplayer;2;High school;No;IPC;Inst2;0
+10 Inst2;Ok;PBL;OSFA;1;7;7;4;1;7;7;1;1;7;7;1;1;7;7;4;1;7;7;2,5;1;0,933333333;Male;26;Strategy;Singleplayer;2;High school;No;IPC;Inst2;42
+11 Inst2;Ok;AOS;Pers;0;5;7;5;1;4;6;6;2;3;6;2;1;3;7;6;1;3,75;6,5;4,75;1,25;1,066666667;Male;19;Strategy;Multiplayer;18;High school;Yes;IPC;Inst2;0
+11 Inst2;Ok;AOS;Pers;1;3;5;6;5;4;4;7;6;2;7;1;4;3;6;7;3;3;5,5;5,25;4,5;1,1;Male;19;Strategy;Multiplayer;18;High school;Yes;IPC;Inst2;42
+12 Inst2;Ok;PBL;OSFA;0;3;5;5;3;5;7;3;4;4;7;2;3;4;7;7;2;4;6,5;4,25;3;1,366666667;Female;22;Action;Multiplayer;10;Undergraduation;No;IPC;Inst2;0
+12 Inst2;Ok;PBL;OSFA;1;4;3;4;6;4;5;4;6;1;6;3;4;3;3;3;4;3;4,25;3,5;5;1;Female;22;Action;Multiplayer;10;Undergraduation;No;IPC;Inst2;42
+13 Inst2;Ok;AOP;Pers;0;6;6;6;1;6;6;6;1;6;6;1;1;7;6;6;1;6,25;6;4,75;1;0,333333333;Male;26;Adventure;Singleplayer;20;High school;No;IPC;Inst2;0
+13 Inst2;Ok;AOP;Pers;1;3;3;7;6;3;3;7;6;3;5;3;6;4;3;7;6;3,25;3,5;6;6;0,5;Male;26;Adventure;Singleplayer;20;High school;No;IPC;Inst2;44
+14 Inst2;Ok;PBL;OSFA;0;6;7;1;1;5;6;5;1;5;1;3;1;6;7;7;1;5,5;5,25;4;1;1,133333333;Female;20;RPG;Multiplayer;6;High school;No;IPC;Inst2;0
+14 Inst2;Ok;PBL;OSFA;1;7;7;7;1;5;7;7;1;4;5;4;1;5;7;7;3;5,25;6,5;6,25;1,5;1,733333333;Female;20;RPG;Multiplayer;6;High school;No;IPC;Inst2;42
+15 Inst2;Ok;CCT;Pers;0;7;7;1;1;5;7;1;1;5;7;1;1;6;7;7;1;5,75;7;2,5;1;0,633333333;Male;20;Action;Singleplayer;3;High school;No;IPC;Inst2;0
+17 Inst2;Ok;PBL;OSFA;0;4;7;4;1;4;7;4;2;4;7;1;1;3;7;4;3;3,75;7;3,25;1,75;0,9;Male;22;Action and Adventure;Multiplayer;20;Technical and Undergrad student;No;IPC;Inst2;0
+17 Inst2;Ok;PBL;OSFA;1;4;6;1;4;5;6;1;5;4;7;1;1;5;5;2;2;4,5;6;1,25;3;0,333333333;Male;22;Action and Adventure;Multiplayer;20;Technical and Undergrad student;No;IPC;Inst2;42
+18 Inst2;Ok;AOP;Pers;0;7;7;7;1;7;7;7;1;7;7;7;1;7;7;7;1;7;7;7;1;1,266666667;Female;18;RPG;Singleplayer;2;High school;No;IPC;Inst2;0
+18 Inst2;Ok;AOP;Pers;1;7;6;3;1;7;7;4;1;7;4;2;1;6;6;6;1;6,75;5,75;3,75;1;1,266666667;Female;18;RPG;Singleplayer;2;High school;No;IPC;Inst2;44
+19 Inst2;Ok;AOP;Pers;0;6;6;2;4;5;7;5;1;5;1;1;1;5;7;2;2;5,25;5,25;2,5;2;0,533333333;Female;19;Strategy;Multiplayer;0;High school;No;IPC;Inst2;0
+19 Inst2;Ok;AOP;Pers;1;6;7;2;1;5;7;2;1;3;5;1;1;5;7;2;1;4,75;6,5;1,75;1;0,5;Female;19;Strategy;Multiplayer;0;High school;No;IPC;Inst2;44
+20 Inst2;Ok;PBL;OSFA;0;6;6;4;2;6;6;6;2;6;6;2;2;6;6;6;2;6;6;4,5;2;1,166666667;Male;18;Action;Multiplayer;30;High school;No;IPC;Inst2;0
+20 Inst2;Ok;PBL;OSFA;1;5;5;3;3;5;5;4;2;5;6;4;2;4;5;5;2;4,75;5,25;4;2,25;0,966666667;Male;18;Action;Multiplayer;30;High school;No;IPC;Inst2;44
+21 Inst2;Ok;AOP;Pers;0;7;7;4;1;7;7;7;1;6;7;2;1;7;7;7;1;6,75;7;5;1;1,2;Female;19;RPG;Multiplayer;3;High school;No;IPC;Inst2;0
+22 Inst2;Ok;AOP;Pers;0;6;6;3;3;6;6;5;3;4;4;1;2;6;7;5;3;5,5;5,75;3,5;2,75;1,1;Male;19;Strategy;Multiplayer;1;High school;No;IPC;Inst2;0
+23 Inst2;Ok;PBL;OSFA;0;6;7;7;2;6;7;4;2;6;7;1;1;7;7;4;2;6,25;7;4;1,75;0,466666667;Male;19;Adventure;Multiplayer;4;High school;No;IPC;Inst2;0
+24 Inst2;Ok;PBL;OSFA;0;5;7;5;4;5;7;4;4;5;4;4;2;3;7;7;4;4,5;6,25;5;3,5;1,2;Female;21;Strategy;Singleplayer;2;High school;No;IPC;Inst2;0
+24 Inst2;Ok;PBL;OSFA;1;6;6;5;4;4;5;3;2;3;4;2;4;2;5;4;4;3,75;5;3,5;3,5;1,133333333;Female;21;Strategy;Singleplayer;2;High school;No;IPC;Inst2;44
+25 Inst2;Ok;AOP;Pers;0;7;7;5;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;5;1;0,476190476;Female;19;RPG;Multiplayer;1;Technical;No;IPC;Inst2;0
+25 Inst2;Ok;AOP;Pers;1;7;7;7;1;7;7;1;1;7;7;1;1;7;7;7;1;7;7;4;1;0,2;Female;19;RPG;Multiplayer;1;Technical;No;IPC;Inst2;41
+26 Inst2;Ok;AOP;Pers;0;7;7;4;1;6;7;6;1;6;3;2;2;3;7;3;2;5,5;6;3,75;1,5;0,766666667;Female;24;Strategy;Singleplayer;2;Undergraduation;No;IPC;Inst2;0
+26 Inst2;Ok;AOP;Pers;1;6;6;4;2;3;6;6;4;6;1;1;2;6;2;6;4;5,25;3,75;4,25;3;1,366666667;Female;24;Strategy;Singleplayer;2;Undergraduation;No;IPC;Inst2;44
+27 Inst2;Ok;CCT;Pers;0;7;7;7;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;5,5;1;0,533333333;Male;44;Action;Singleplayer;0;Undergraduation;No;IPC;Inst2;0
+28 Inst2;Ok;ACT;Pers;1;5;4;5;3;2;4;4;4;2;4;2;3;2;2;5;1;2,75;3,5;4;2,75;1,233333333;Female;19;Action;Singleplayer;3;High school;No;IPC;Inst2;0
+29 Inst2;Ok;PBL;OSFA;0;7;6;2;1;7;7;3;1;6;5;1;1;7;7;6;1;6,75;6,25;3;1;0,3;Male;20;Adventure;Multiplayer;10;High school;No;IPC;Inst2;0
+30 Inst2;Ok;PBL;OSFA;0;7;7;1;1;5;7;7;1;5;4;2;1;5;7;7;1;5,5;6,25;4,25;1;0,766666667;Female;21;Adventure;Multiplayer;1;Technical;No;IPC;Inst2;0
+30 Inst2;Ok;PBL;OSFA;1;7;7;4;1;7;7;7;1;5;7;4;1;7;7;7;1;6,5;7;5,5;1;0,333333333;Female;21;Adventure;Multiplayer;1;Technical;No;IPC;Inst2;42
+31 Inst2;Ok;CCT;Pers;0;7;7;4;1;7;7;5;1;7;4;1;1;7;7;4;1;7;6,25;3,5;1;0,866666667;Male;20;Action;Multiplayer;10;High school;No;IPC;Inst2;0
+31 Inst2;Ok;CCT;Pers;1;7;7;5;1;7;7;5;1;5;7;5;1;7;7;6;1;6,5;7;5,25;1;0,733333333;Male;20;Action;Multiplayer;10;High school;No;IPC;Inst2;42
+32 Inst2;Ok;PBL;OSFA;0;6;6;4;2;6;6;3;5;6;4;2;1;4;6;6;2;5,5;5,5;3,75;2,5;0,933333333;Male;18;Adventure;Singleplayer;0;Technical;No;IPC;Inst2;0
+33 Inst2;Ok;AOS;Pers;0;6;6;4;4;6;7;4;4;6;7;4;4;6;7;6;4;6;6,75;4,5;4;0,666666667;Male;19;Adventure;Singleplayer;6;Undergraduation;Yes;IPC;Inst2;0
+33 Inst2;Ok;AOS;Pers;1;5;5;5;3;5;5;4;3;5;7;3;3;4;6;6;4;4,75;5,75;4,5;3,25;1,166666667;Male;19;Adventure;Singleplayer;6;Undergraduation;Yes;IPC;Inst2;44
+34 Inst2;Ok;AOP;Pers;0;6;4;5;1;5;5;4;1;4;7;4;1;4;5;5;1;4,75;5,25;4,5;1;0,366666667;Male;25;Adventure;Singleplayer;12;Technical;No;IPC;Inst2;0
+35 Inst2;Ok;PBL;OSFA;0;7;7;7;1;7;7;7;1;7;4;3;1;7;7;7;1;7;6,25;6;1;1,266666667;Male;18;Action;Singleplayer;2;High school;No;IPC;Inst2;0
+35 Inst2;Ok;PBL;OSFA;1;7;7;1;1;7;7;4;1;7;7;1;1;7;7;7;1;7;7;3,25;1;0,8;Male;18;Action;Singleplayer;2;High school;No;IPC;Inst2;44
+36 Inst2;Ok;PBL;OSFA;0;5;2;3;1;4;3;7;3;4;4;2;1;2;2;5;1;3,75;2,75;4,25;1,5;0,5;Female;19;RPG;Multiplayer;7;Undergrad student;No;IPC;Inst2;0
+36 Inst2;Ok;PBL;OSFA;1;4;5;5;4;3;3;7;1;3;1;1;1;3;1;5;4;3,25;2,5;4,5;2,5;0,8;Female;19;RPG;Multiplayer;7;Undergrad student;No;IPC;Inst2;46
+37 Inst2;Ok;PBL;OSFA;0;6;5;4;1;4;7;7;1;4;7;1;1;4;7;7;3;4,5;6,5;4,75;1,5;1,1;Female;18;Adventure;Singleplayer;1;High school;No;IPC;Inst2;0
+38 Inst2;Ok;PBL;OSFA;0;6;6;4;1;6;6;6;1;6;1;1;1;6;7;7;5;6;5;4,5;2;1,133333333;Male;24;RPG;Singleplayer;2;Undergraduation;No;IPC;Inst2;0
+39 Inst2;Ok;AOP;Pers;1;7;7;6;2;7;7;7;2;7;7;2;2;7;7;7;2;7;7;5,5;2;1,033333333;Male;20;Adventure;Multiplayer;2;Technical;No;IPC;Inst2;0
+40 Inst2;Late;AOP;Pers;0;6;6;6;5;6;5;4;5;6;6;4;5;6;6;6;7;6;5,75;5;5,5;1,9;Male;21;RPG;Singleplayer;4;High school;No;IPC;Inst2;0
+40 Inst2;Late;AOP;Pers;1;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;1,266666667;Male;21;RPG;Singleplayer;4;High school;No;IPC;Inst2;42
+41 Inst2;Late;AOP;Pers;0;5;4;4;4;5;4;4;3;5;4;4;4;4;4;6;3;4,75;4;4,5;3,5;0,933333333;Male;21;RPG;Multiplayer;2;Undergrad student;No;IPC;Inst2;0
+42 Inst2;Late;AOP;Pers;0;7;7;6;1;7;7;7;1;7;7;2;1;7;7;7;1;7;7;5,5;1;1,266666667;Female;19;Adventure;Singleplayer;6;Technical;No;IPC;Inst2;0
+42 Inst2;Late;AOP;Pers;1;7;7;7;3;7;7;5;1;6;4;4;1;6;7;7;1;6,5;6,25;5,75;1,5;1,066666667;Female;19;Adventure;Singleplayer;6;Technical;No;IPC;Inst2;44
+43 Inst2;Late;AOP;Pers;0;6;7;7;1;5;7;7;1;5;7;6;1;7;7;7;1;5,75;7;6,75;1;1,366666667;Female;18;Strategy;Multiplayer;2;Undergraduation;No;IPC;Inst2;0
+43 Inst2;Late;AOP;Pers;1;7;7;7;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;5,5;1;1,533333333;Female;18;Strategy;Multiplayer;2;Undergraduation;No;IPC;Inst2;42
+44 Inst2;Late;CCT;Pers;0;6;6;6;2;6;6;6;1;6;4;2;1;6;6;6;1;6;5,5;5;1,25;1,4;Male;19;Adventure;Singleplayer;10;High school;No;IPC;Inst2;0
+45 Inst2;Late;AOP;Pers;0;3;5;7;4;5;4;4;5;2;5;1;5;4;6;3;4;3,5;5;3,75;4,5;1,466666667;Male;19;RPG;Singleplayer;0;High school;No;IPC;Inst2;0
+46 Inst2;Late;AOP;Pers;0;3;5;4;4;4;4;7;2;1;4;4;3;2;4;6;3;2,5;4,25;5,25;3;1,833333333;Male;21;Strategy;Multiplayer;7;High school;No;IPC;Inst2;0
+46 Inst2;Late;AOP;Pers;1;5;4;6;4;5;5;5;4;3;5;7;4;3;4;6;4;4;4,5;6;4;1,866666667;Male;21;Strategy;Multiplayer;7;High school;No;IPC;Inst2;42
+47 Inst2;Didn't use;AOP;Pers;1;5;4;3;5;4;4;2;2;5;6;2;2;2;5;4;2;4;4,75;2,75;2,75;;Male;24;RPG;Multiplayer;5;High school;No;IPC;Inst2;62
+47 Inst2;Late;AOP;Pers;0;5;4;3;1;5;4;4;1;6;3;1;1;5;6;5;1;5,25;4,25;3,25;1;1,666666667;Male;24;RPG;Multiplayer;5;High school;No;IPC;Inst2;0
+48 Inst2;Late;AOP;Pers;0;6;5;4;1;5;6;4;1;4;7;4;1;5;6;7;2;5;6;4,75;1,25;0,5;Male;22;RPG;Singleplayer;20;Technical;No;IPC;Inst2;0
+48 Inst2;Late;AOP;Pers;1;6;6;4;2;4;5;5;2;5;5;2;1;5;5;6;1;5;5,25;4,25;1,5;0,366666667;Male;22;RPG;Singleplayer;20;Technical;No;IPC;Inst2;42
+49 Inst2;Late;AOP;Pers;0;5;5;7;2;5;6;7;2;5;5;5;2;4;5;7;2;4,75;5,25;6,5;2;0,966666667;Male;20;Strategy;Multiplayer;14;Undergraduation;No;IPC;Inst2;0
+50 Inst2;Late;AOP;Pers;0;6;7;7;1;5;6;7;1;5;5;1;1;5;6;7;1;5,25;6;5,5;1;0,533333333;Male;21;Strategy;Multiplayer;80;High school;No;IPC;Inst2;0
+52 Inst2;Late;AOP;Pers;0;4;4;4;4;5;5;4;4;6;4;4;1;5;4;4;1;5;4,25;4;2,5;0,866666667;Female;18;Adventure;Singleplayer;4;High school;No;IPC;Inst2;0
+53 Inst2;Late;AOP;Pers;0;5;2;4;5;4;2;7;7;3;6;4;6;1;3;7;6;3,25;3,25;5,5;6;0,9;Male;21;Strategy;Multiplayer;15;High school;No;IPC;Inst2;0
+53 Inst2;Late;AOP;Pers;1;7;5;7;5;7;7;7;5;2;7;4;4;7;5;7;4;5,75;6;6,25;4,5;0,533333333;Male;21;Strategy;Multiplayer;15;High school;No;IPC;Inst2;42
+54 Inst2;Late;PBL;OSFA;0;7;7;5;4;6;7;7;4;5;7;4;3;5;7;5;2;5,75;7;5,25;3,25;1,2;Male;31;RPG;Singleplayer;2;High school;No;IPC;Inst2;0
+55 Inst2;Late;PBL;OSFA;0;7;7;1;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;4;1;1,033333333;Male;20;Action;Multiplayer;0;High school;No;IPC;Inst2;0
+55 Inst2;Late;PBL;OSFA;1;1;7;7;1;1;1;7;1;1;7;1;1;1;1;7;1;1;4;5,5;1;2,3;Male;20;Action;Multiplayer;0;High school;No;IPC;Inst2;42
+56 Inst2;Late;PBL;OSFA;0;4;4;3;3;4;6;3;1;5;5;1;3;4;4;5;1;4,25;4,75;3;2;1,433333333;Male;20;Strategy;Multiplayer;15;High school;No;IPC;Inst2;0
+56 Inst2;Late;PBL;OSFA;1;4;4;4;4;4;4;4;3;3;3;4;2;3;3;4;3;3,5;3,5;4;3;1,766666667;Male;20;Strategy;Multiplayer;15;High school;No;IPC;Inst2;43
+57 Inst2;Late;AOP;Pers;0;6;7;6;1;7;7;7;1;5;5;2;1;5;7;7;3;5,75;6,5;5,5;1,5;1,766666667;Male;19;Action;Multiplayer;2;High school;Yes;IPC;Inst2;0
+58 Inst2;Late;AOS;Pers;0;5;7;4;1;7;7;5;1;7;4;1;1;6;7;4;1;6,25;6,25;3,5;1;1,133333333;Male;20;Action;Multiplayer;0;High school;No;IPC;Inst2;0
+59 Inst2;Late;AOP;Pers;0;7;7;2;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;4,25;1;1;Male;20;Adventure;Multiplayer;14;High school;No;IPC;Inst2;0
+59 Inst2;Late;AOP;Pers;1;7;7;4;1;3;7;3;1;4;4;4;1;4;7;5;1;4,5;6,25;4;1;0,233333333;Male;20;Adventure;Multiplayer;14;High school;No;IPC;Inst2;51
+60 Inst2;Late;PBL;OSFA;0;4;7;5;1;4;7;5;1;4;7;1;3;4;7;7;2;4;7;4,5;1,75;0,916666667;Female;21;Action;Multiplayer;0;Undergraduation;Yes;IPC;Inst2;0
+61 Inst2;Late;AOS;Pers;1;7;3;4;2;6;6;4;2;6;6;1;2;6;6;6;6;6,25;5,25;3,75;3;1,433333333;Male;26;Strategy;Singleplayer;2;High school;No;IPC;Inst2;0
+62 Inst2;Late;AOS;Pers;0;7;7;4;1;7;7;4;1;7;7;1;1;7;7;2;1;7;7;2,75;1;0,866666667;Female;20;Adventure;Singleplayer;2;High school;No;IPC;Inst2;0
+63 Inst2;Late;AOS;Pers;0;7;7;6;1;7;7;7;1;7;7;7;1;7;7;7;1;7;7;6,75;1;1,633333333;Female;20;Action;Multiplayer;3;High school;No;IPC;Inst2;0
+63 Inst2;Late;AOS;Pers;1;7;7;7;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;5,5;1;1,3;Female;20;Action;Multiplayer;3;High school;No;IPC;Inst2;44
+64 Inst2;Late;AOS;Pers;0;6;7;7;1;6;7;7;1;6;5;3;1;6;7;7;1;6;6,5;6;1;0,966666667;Female;20;RPG;Multiplayer;0;High school;No;IPC;Inst2;0
+64 Inst2;Late;AOS;Pers;1;7;7;7;1;7;7;7;2;7;4;2;1;7;7;6;1;7;6,25;5,5;1,25;0,8;Female;20;RPG;Multiplayer;0;High school;No;IPC;Inst2;44
+65 Inst2;Late;AOS;Pers;0;7;7;5;1;6;7;7;1;7;1;1;1;6;7;2;1;6,5;5,5;3,75;1;1,1;Male;19;Action;Multiplayer;6;High school;No;IPC;Inst2;0
+65 Inst2;Late;AOS;Pers;1;7;7;4;1;7;7;4;1;7;7;1;1;6;7;4;1;6,75;7;3,25;1;0,9;Male;19;Action;Multiplayer;6;High school;No;IPC;Inst2;44
+66 Inst2;Late;AOS;Pers;0;7;7;7;4;7;7;7;2;7;6;1;1;6;7;7;4;6,75;6,75;5,5;2,75;1,233333333;Male;20;Action;Multiplayer;2;High school;No;IPC;Inst2;0
+66 Inst2;Late;AOS;Pers;1;7;7;6;1;6;6;5;2;6;1;1;2;5;6;7;4;6;5;4,75;2,25;1,433333333;Male;20;Action;Multiplayer;2;High school;No;IPC;Inst2;51
+67 Inst2;Late;PBL;OSFA;0;7;4;1;4;7;4;1;1;7;7;1;1;2;1;1;1;5,75;4;1;1,75;0,866666667;Male;20;Adventure;Multiplayer;6;Undergraduation;No;IPC;Inst2;0
+68 Inst2;Late;AOS;Pers;0;6;6;1;6;6;7;6;1;7;6;1;1;7;6;6;1;6,5;6,25;3,5;2,25;1,666666667;Male;28;RPG;Multiplayer;10;Technical;No;IPC;Inst2;0
+69 Inst2;Late;AOS;Pers;0;6;6;4;3;4;6;4;2;4;4;2;3;4;6;4;3;4,5;5,5;3,5;2,75;1,566666667;Female;20;Action;Singleplayer;4;High school;No;IPC;Inst2;0
+70 Inst2;Late;AOS;Pers;0;6;7;6;1;7;7;7;1;6;6;3;1;6;6;7;1;6,25;6,5;5,75;1;1;Male;19;Action;Multiplayer;14;High school;No;IPC;Inst2;0
+71 Inst2;Late;AOS;Pers;0;6;6;6;2;6;6;2;2;5;4;1;1;6;5;4;4;5,75;5,25;3,25;2,25;0,733333333;Female;19;Action;Singleplayer;5;High school;No;IPC;Inst2;0
+72 Inst2;Late;AOP;Pers;0;5;4;2;2;5;5;4;2;3;6;2;2;4;5;5;2;4,25;5;3,25;2;1,233333333;Male;20;Strategy;Multiplayer;10;High school;No;IPC;Inst2;0
+1 Inst3a;Ok;AOP;Pers;0;6;3;1;1;5;6;1;2;5;4;1;1;4;4;4;1;5;4,25;1,75;1,25;0,966666667;Male;19;RPG;Singleplayer;30;Undergraduation;No;LP2;Inst3;0
+2 Inst3a;Ok;AOP;Pers;0;2;4;5;3;2;5;3;4;1;4;1;4;2;5;5;4;1,75;4,5;3,5;3,75;1,733333333;Rather not say;19;RPG;Singleplayer;2;High school;No;LP2;Inst3;0
+3 Inst3a;Ok;PBL;OSFA;0;7;7;6;1;6;7;1;1;6;7;1;1;4;7;4;1;5,75;7;3;1;0,366666667;Male;19;RPG;Multiplayer;12;High school;No;LP2;Inst3;0
+3 Inst3a;Ok;PBL;OSFA;1;7;7;7;1;7;7;1;1;7;7;1;1;5;7;7;1;6,5;7;4;1;0,633333333;Male;19;RPG;Multiplayer;12;High school;No;LP2;Inst3;28
+5 Inst3a;Ok;AOP;Pers;0;6;7;3;1;7;7;2;1;7;7;1;1;7;7;6;1;6,75;7;3;1;1,066666667;Male;18;Strategy;Multiplayer;50;High school;No;LP2;Inst3;0
+5 Inst3a;Ok;AOP;Pers;1;7;7;1;1;7;6;2;1;7;7;1;1;7;7;4;1;7;6,75;2;1;1,466666667;Male;18;Strategy;Multiplayer;50;High school;No;LP2;Inst3;26
+6 Inst3a;Ok;PBL;OSFA;0;7;7;1;3;7;7;7;6;7;5;1;4;6;7;7;2;6,75;6,5;4;3,75;1,433333333;Male;19;Action;Singleplayer;28;High school;No;LP2;Inst3;0
+6 Inst3a;Ok;PBL;OSFA;1;6;7;4;2;7;7;5;2;6;7;1;1;6;7;6;3;6,25;7;4;2;1,166666667;Male;19;Action;Singleplayer;28;High school;No;LP2;Inst3;28
+7 Inst3a;Ok;PBL;OSFA;0;6;7;4;1;7;6;6;1;7;6;1;1;7;7;5;1;6,75;6,5;4;1;0,7;Female;19;Adventure;Singleplayer;0;High school;Yes;LP2;Inst3;0
+7 Inst3a;Ok;PBL;OSFA;1;7;7;5;1;7;7;5;1;7;7;1;1;7;7;5;1;7;7;4;1;1,166666667;Female;19;Adventure;Singleplayer;0;High school;Yes;LP2;Inst3;28
+8 Inst3a;Ok;CCT;Pers;0;5;7;4;1;4;6;5;2;5;5;2;1;4;5;5;1;4,5;5,75;4;1,25;0,7;Male;19;Action;Multiplayer;7;High school;No;LP2;Inst3;0
+9 Inst3a;Ok;PBL;OSFA;0;7;7;7;1;7;7;7;4;5;7;1;4;6;7;7;4;6,25;7;5,5;3,25;1,466666667;Male;23;Action;Singleplayer;0;Technical;No;LP2;Inst3;0
+9 Inst3a;Ok;PBL;OSFA;1;6;6;7;5;6;7;7;3;6;7;5;3;5;5;7;5;5,75;6,25;6,5;4;1,3;Male;23;Action;Singleplayer;0;Technical;No;LP2;Inst3;26
+10 Inst3a;Ok;AOP;Pers;0;7;7;7;7;7;7;7;7;7;6;7;7;7;7;7;7;7;6,75;7;7;1,566666667;Male;19;Strategy;Multiplayer;10;Undergraduation;No;LP2;Inst3;0
+10 Inst3a;Ok;AOP;Pers;1;7;7;6;6;6;7;7;6;5;6;6;6;7;7;7;7;6,25;6,75;6,5;6,25;1,4;Male;19;Strategy;Multiplayer;10;Undergraduation;No;LP2;Inst3;28
+11 Inst3a;Ok;AOP;Pers;0;7;7;4;1;6;7;2;1;7;7;1;1;7;7;2;1;6,75;7;2,25;1;1,1;Male;19;Adventure;Singleplayer;8;High school;No;LP2;Inst3;0
+12 Inst3a;Ok;CCT;Pers;0;7;7;5;1;7;7;5;1;7;7;1;1;7;7;7;1;7;7;4,5;1;0,666666667;Male;19;Action;Multiplayer;10;Undergraduation;No;LP2;Inst3;0
+12 Inst3a;Ok;CCT;Pers;1;6;7;5;1;7;6;4;1;7;7;1;1;7;7;6;1;6,75;6,75;4;1;0,966666667;Male;19;Action;Multiplayer;10;Undergraduation;No;LP2;Inst3;28
+13 Inst3a;Ok;AOP;Pers;0;7;7;4;2;5;7;7;1;4;4;1;1;5;7;7;1;5,25;6,25;4,75;1,25;1,533333333;Male;19;Strategy;Singleplayer;1;Undergraduation;No;LP2;Inst3;0
+13 Inst3a;Ok;AOP;Pers;1;6;6;1;2;2;6;7;2;4;4;4;1;3;6;5;2;3,75;5,5;4,25;1,75;1,766666667;Male;19;Strategy;Singleplayer;1;Undergraduation;No;LP2;Inst3;28
+14 Inst3a;Ok;CCT;Pers;0;7;7;7;1;4;7;7;1;6;7;1;1;4;7;7;1;5,25;7;5,5;1;1,033333333;Male;19;Action;Multiplayer;35;High school;No;LP2;Inst3;0
+15 Inst3a;Ok;PBL;OSFA;0;7;7;1;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;4;1;1,033333333;Male;19;Action;Multiplayer;10;High school;No;LP2;Inst3;0
+16 Inst3a;Ok;AOP;Pers;0;7;5;6;6;6;6;6;1;5;6;4;1;4;4;7;1;5,5;5,25;5,75;2,25;1,066666667;Female;20;RPG;Multiplayer;1;High school;No;LP2;Inst3;0
+16 Inst3a;Ok;AOP;Pers;1;7;7;2;2;6;5;4;1;5;6;2;1;5;5;6;1;5,75;5,75;3,5;1,25;1,1;Female;20;RPG;Multiplayer;1;High school;No;LP2;Inst3;28
+17 Inst3a;Ok;PBL;OSFA;0;6;5;5;2;6;5;4;4;4;6;1;2;5;6;5;2;5,25;5,5;3,75;2,5;1,1;Male;18;RPG;Singleplayer;12;High school;No;LP2;Inst3;0
+17 Inst3a;Ok;PBL;OSFA;1;6;6;6;2;5;7;7;1;5;4;1;2;6;7;6;2;5,5;6;5;1,75;1,5;Male;18;RPG;Singleplayer;12;High school;No;LP2;Inst3;28
+18 Inst3a;Ok;PBL;OSFA;0;6;7;7;2;7;7;4;3;7;7;4;3;6;7;6;4;6,5;7;5,25;3;0,966666667;Female;25;RPG;Multiplayer;6;High school;No;LP2;Inst3;0
+19 Inst3a;Late;AOS;Pers;0;6;4;5;1;6;6;1;6;5;4;1;1;6;6;6;4;5,75;5;3,25;3;0,233333333;Female;21;Action;Multiplayer;2;High school;No;LP2;Inst3;0
+19 Inst3a;Late;AOS;Pers;1;6;5;2;2;4;4;5;2;6;2;2;2;2;5;6;2;4,5;4;3,75;2;0,766666667;Female;21;Action;Multiplayer;2;High school;No;LP2;Inst3;28
+20 Inst3a;Late;AOS;Pers;0;5;7;6;1;5;7;7;1;4;3;1;1;2;5;7;1;4;5,5;5,25;1;1,166666667;Female;19;Action;Multiplayer;0;High school;No;LP2;Inst3;0
+21 Inst3a;Late;AOS;Pers;0;4;5;4;3;5;6;5;4;6;1;4;2;5;5;4;3;5;4,25;4,25;3;0,233333333;Male;20;Strategy;Multiplayer;10;High school;No;LP2;Inst3;0
+21 Inst3a;Late;AOS;Pers;1;4;5;4;3;4;4;5;2;6;4;3;2;5;6;6;3;4,75;4,75;4,5;2,5;0,466666667;Male;20;Strategy;Multiplayer;10;High school;No;LP2;Inst3;28
+22 Inst3a;Late;AOS;Pers;0;7;4;4;2;5;6;4;2;5;4;4;1;5;6;4;2;5,5;5;4;1,75;1,233333333;Rather not say;18;Strategy;Multiplayer;42;Undergrad student;No;LP2;Inst3;0
+22 Inst3a;Late;AOS;Pers;1;5;5;4;2;6;6;5;2;5;7;1;2;5;5;5;2;5,25;5,75;3,75;2;2,1;Male;19;Action;Multiplayer;2;High school;No;LP2;Inst3;27
+23 Inst3a;Late;AOS;Pers;0;7;6;4;2;4;6;7;1;6;7;1;1;4;5;7;1;5,25;6;4,75;1,25;1,633333333;Male;19;Strategy;Multiplayer;30;Undergraduation;No;LP2;Inst3;0
+23 Inst3a;Late;AOS;Pers;1;6;6;4;1;7;7;5;2;7;6;1;2;7;6;7;1;6,75;6,25;4,25;1,5;1,433333333;Male;19;Strategy;Multiplayer;30;Undergraduation;No;LP2;Inst3;24
+24 Inst3a;Late;AOS;Pers;0;6;5;4;3;5;6;3;2;6;6;2;1;4;5;2;1;5,25;5,5;2,75;1,75;1,1;Male;19;Adventure;Singleplayer;1;High school;No;LP2;Inst3;0
+24 Inst3a;Late;AOS;Pers;1;7;6;1;1;6;7;3;2;5;7;1;1;6;7;7;1;6;6,75;3;1,25;1,466666667;Male;19;Adventure;Singleplayer;1;High school;No;LP2;Inst3;28
+25 Inst3a;Late;AOS;Pers;0;7;7;6;4;7;7;4;4;7;7;4;4;6;7;7;4;6,75;7;5,25;4;0,4;Male;20;Run and Gun;Singleplayer;1;Undergraduation;No;LP2;Inst3;0
+25 Inst3a;Late;AOS;Pers;1;7;7;7;4;7;7;7;4;7;7;4;4;6;7;7;4;6,75;7;6,25;4;0,8;Male;20;Run and Gun;Singleplayer;1;Undergraduation;No;LP2;Inst3;28
+26 Inst3a;Late;AOS;Pers;0;5;5;6;1;6;5;5;5;5;6;1;1;1;4;6;1;4,25;5;4,5;2;1;Male;19;Action;Multiplayer;8;High school;No;LP2;Inst3;0
+26 Inst3a;Late;AOS;Pers;1;6;6;6;1;6;6;6;1;5;7;1;1;5;6;6;6;5,5;6,25;4,75;2,25;1,333333333;Male;19;Action;Multiplayer;8;High school;No;LP2;Inst3;28
+28 Inst3a;Late;AOS;Pers;1;6;6;6;4;5;6;6;3;5;7;1;2;5;6;4;4;5,25;6,25;4,25;3,25;1;Male;21;Adventure;Singleplayer;6;High school;No;LP2;Inst3;0
+29 Inst3a;Late;AOS;Pers;1;3;5;4;2;3;5;4;3;3;3;2;2;3;3;4;4;3;4;3,5;2,75;0,9;Male;20;RPG;Multiplayer;40;Undergrad student;Yes;LP2;Inst3;0
+33 Inst3a;Late;AOS;Pers;1;3;7;4;1;5;6;6;1;3;3;3;2;5;6;5;1;4;5,5;4,5;1,25;1,566666667;Male;18;Action;Multiplayer;2;High school;No;LP2;Inst3;0
+34 Inst3a;Late;AOS;Pers;1;7;7;1;1;7;7;2;1;7;4;1;1;5;7;3;1;6,5;6,25;1,75;1;1,2;Female;19;Adventure;Singleplayer;2;High school;No;LP2;Inst3;0
+1 Inst3b;Ok;AOP;Pers;0;7;7;7;1;7;1;7;7;1;7;7;1;1;1;1;7;4;4;5,5;4;0,8;Male;21;RPG;Multiplayer;4;High school;No;PCA;Inst3;0
+1 Inst3b;Ok;AOP;Pers;1;7;6;7;6;7;7;7;1;7;7;1;1;4;1;1;1;6,25;5,25;4;2,25;0,933333333;Male;21;RPG;Multiplayer;4;High school;No;PCA;Inst3;28
+2 Inst3b;Ok;PBL;OSFA;0;7;3;5;1;6;7;7;2;6;7;1;2;4;6;6;2;5,75;5,75;4,75;1,75;0,133333333;Male;19;Action;Multiplayer;2;High school;No;PCA;Inst3;0
+2 Inst3b;Ok;PBL;OSFA;1;6;3;5;5;6;4;5;2;6;7;3;2;6;4;5;3;6;4,5;4,5;3;0,566666667;Male;19;Action;Multiplayer;2;High school;No;PCA;Inst3;28
+4 Inst3b;Ok;CCT;Pers;0;7;7;1;1;7;7;1;1;7;7;1;1;7;7;7;1;7;7;2,5;1;0,866666667;Male;18;Action;Multiplayer;1;Technical;No;PCA;Inst3;0
+4 Inst3b;Ok;CCT;Pers;1;7;7;7;1;7;7;7;1;7;7;1;1;7;7;7;1;7;7;5,5;1;1,466666667;Male;18;Action;Multiplayer;1;Technical;No;PCA;Inst3;28
+5 Inst3b;Ok;CCT;Pers;0;3;6;3;2;3;4;4;4;3;4;2;3;3;4;6;2;3;4,5;3,75;2,75;0,833333333;Male;19;Action;Singleplayer;8;High school;No;PCA;Inst3;0
+5 Inst3b;Ok;CCT;Pers;1;3;4;4;3;5;4;5;3;3;4;3;3;3;4;4;5;3,5;4;4;3,5;0,833333333;Male;19;Action;Singleplayer;8;High school;No;PCA;Inst3;28
+6 Inst3b;Ok;AOS;Pers;0;7;6;6;2;7;6;3;1;7;5;1;1;6;7;5;3;6,75;6;3,75;1,75;1,533333333;Female;19;Strategy;Singleplayer;2;Technical;Yes;PCA;Inst3;0
+6 Inst3b;Ok;AOS;Pers;1;6;7;3;1;6;7;3;2;5;6;1;1;5;6;6;2;5,5;6,5;3,25;1,5;1,7;Female;19;Strategy;Singleplayer;2;Technical;Yes;PCA;Inst3;28
+7 Inst3b;Ok;AOP;Pers;0;7;4;7;1;5;7;7;1;6;7;7;1;6;7;7;1;6;6,25;7;1;0,9;Female;19;Strategy;Singleplayer;6;Technical;No;PCA;Inst3;0
+7 Inst3b;Ok;AOP;Pers;1;7;7;6;1;7;7;2;1;6;7;1;1;7;7;6;1;6,75;7;3,75;1;1,9;Female;19;Strategy;Singleplayer;6;Technical;No;PCA;Inst3;28
+8 Inst3b;Ok;PBL;OSFA;0;7;7;6;1;7;6;4;6;6;7;1;2;5;7;7;3;6,25;6,75;4,5;3;1,4;Female;19;RPG;Singleplayer;2;Technical;Yes;PCA;Inst3;0
+8 Inst3b;Ok;PBL;OSFA;1;7;6;6;1;4;7;6;2;6;7;2;2;7;7;7;2;6;6,75;5,25;1,75;2,333333333;Female;19;RPG;Singleplayer;2;Technical;Yes;PCA;Inst3;28
+9 Inst3b;Ok;AOP;Pers;0;5;6;6;3;5;6;7;2;4;5;6;3;6;5;6;6;5;5,5;6,25;3,5;0,2;Male;18;Strategy;Multiplayer;6;Undergraduation;No;PCA;Inst3;0
+9 Inst3b;Ok;AOP;Pers;1;6;5;6;4;5;6;5;2;3;5;2;2;6;6;7;2;5;5,5;5;2,5;0,4;Male;18;Strategy;Multiplayer;6;Undergraduation;No;PCA;Inst3;28
+10 Inst3b;Ok;PBL;OSFA;0;7;7;5;2;7;7;6;1;6;7;3;7;6;7;6;2;6,5;7;5;3;1,4;Male;19;MOBA;Multiplayer;20;High school;No;PCA;Inst3;0
+10 Inst3b;Ok;PBL;OSFA;1;7;4;6;2;6;7;7;2;5;6;3;2;6;6;6;2;6;5,75;5,5;2;1,166666667;Male;19;MOBA;Multiplayer;20;High school;No;PCA;Inst3;28
+11 Inst3b;Ok;PBL;OSFA;0;7;1;1;1;7;7;1;1;6;7;1;1;5;7;5;2;6,25;5,5;2;1,25;0,266666667;Male;19;Action;Multiplayer;1;High school;No;PCA;Inst3;0
+11 Inst3b;Ok;PBL;OSFA;1;7;5;4;1;7;7;1;1;5;7;1;1;7;7;5;1;6,5;6,5;2,75;1;0,466666667;Male;19;Action;Multiplayer;1;High school;No;PCA;Inst3;28
+12 Inst3b;Ok;PBL;OSFA;0;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;2,047619048;Male;19;Strategy;Multiplayer;5;Undergraduation;No;PCA;Inst3;0
+13 Inst3b;Ok;PBL;OSFA;0;7;7;4;1;7;7;1;1;7;7;1;1;7;7;7;1;7;7;3,25;1;0,833333333;Male;25;Action;Singleplayer;7;Technical;Yes;PCA;Inst3;0
+14 Inst3b;Ok;PBL;OSFA;0;6;4;4;3;3;6;4;2;2;2;2;2;2;5;4;2;3,25;4,25;3,5;2,25;0,2;Female;19;Strategy;Multiplayer;10;High school;No;PCA;Inst3;0
+14 Inst3b;Ok;PBL;OSFA;1;2;4;6;4;2;2;5;2;2;3;2;3;3;3;6;5;2,25;3;4,75;3,5;0,366666667;Female;19;Strategy;Multiplayer;10;High school;No;PCA;Inst3;28
+15 Inst3b;Ok;CCT;Pers;0;5;5;4;1;6;5;4;1;4;5;1;4;5;5;4;3;5;5;3,25;2,25;0,566666667;Male;22;Action;Multiplayer;7;High school;No;PCA;Inst3;0
+15 Inst3b;Ok;CCT;Pers;1;5;6;5;1;5;5;5;1;4;4;4;1;4;4;5;1;4,5;4,75;4,75;1;1;Male;22;Action;Multiplayer;7;High school;No;PCA;Inst3;28
+16 Inst3b;Ok;AOP;Pers;0;7;7;7;1;7;7;2;2;7;7;1;1;7;7;7;3;7;7;4,25;1,75;0,933333333;Male;25;Strategy;Multiplayer;10;High school;No;PCA;Inst3;0
+16 Inst3b;Ok;AOP;Pers;1;7;6;2;2;6;7;1;2;7;7;2;1;7;6;5;2;6,75;6,5;2,5;1,75;0,633333333;Male;25;Strategy;Multiplayer;10;High school;No;PCA;Inst3;28
+17 Inst3b;Ok;AOP;Pers;0;5;4;3;2;5;2;5;3;3;4;3;1;6;7;4;1;4,75;4,25;3,75;1,75;1,166666667;Male;19;Adventure;Multiplayer;33;High school;No;PCA;Inst3;0
+18 Inst3b;Ok;AOS;Pers;0;7;7;2;1;7;7;1;1;5;7;1;1;7;7;4;1;6,5;7;2;1;1,5;Male;20;Strategy;Singleplayer;7;High school;Yes;PCA;Inst3;0
+18 Inst3b;Ok;AOS;Pers;1;6;7;4;1;6;7;1;1;6;6;1;1;6;6;7;7;6;6,5;3,25;2,5;2,2;Male;20;Strategy;Singleplayer;7;High school;Yes;PCA;Inst3;28
+19 Inst3b;Ok;PBL;OSFA;0;7;6;2;1;7;6;6;1;6;7;6;2;4;7;6;2;6;6,5;5;1,5;1,333333333;Male;23;Action;Multiplayer;1;High school;No;PCA;Inst3;0
+20 Inst3b;Ok;AOP;Pers;0;6;5;5;6;5;6;6;5;6;5;5;6;5;5;6;6;5,5;5,25;5,5;5,75;2,066666667;Male;19;Adventure;Singleplayer;0;High school;No;PCA;Inst3;0
+21 Inst3b;Ok;AOS;Pers;0;4;4;7;2;5;5;5;2;5;3;4;6;3;6;5;4;4,25;4,5;5,25;3,5;0,7;Male;20;RPG;Multiplayer;10;High school;No;PCA;Inst3;0
+21 Inst3b;Ok;AOS;Pers;1;6;4;4;4;5;3;3;2;3;2;1;2;6;5;3;5;5;3,5;2,75;3,25;1,466666667;Male;20;RPG;Multiplayer;10;High school;No;PCA;Inst3;28
+23 Inst3b;Ok;PBL;OSFA;0;7;7;6;1;7;5;7;2;7;7;3;4;5;7;7;3;6,5;6,5;5,75;2,5;1,7;Female;18;Action;Singleplayer;1;Undergraduation;No;PCA;Inst3;0
+23 Inst3b;Ok;PBL;OSFA;1;7;7;6;3;7;7;7;2;7;7;5;4;6;7;6;5;6,75;7;6;3,5;1,466666667;Female;18;Action;Singleplayer;1;Undergraduation;No;PCA;Inst3;28
+24 Inst3b;Ok;PBL;OSFA;0;6;7;5;6;7;7;5;7;7;5;5;5;5;7;4;3;6,25;6,5;4,75;5,25;2,033333333;Male;19;Sports;Multiplayer;2;High school;No;PCA;Inst3;0
+25 Inst3b;Ok;AOS;Pers;0;4;6;4;4;4;4;7;4;2;2;7;3;3;4;6;5;3,25;4;6;4;0,6;Male;20;RPG;Singleplayer;3;Undergraduation;Yes;PCA;Inst3;0
+25 Inst3b;Ok;AOS;Pers;1;3;5;7;2;5;4;7;4;2;2;7;2;2;3;6;5;3;3,5;6,75;3,25;1,633333333;Male;20;RPG;Singleplayer;3;Undergraduation;Yes;PCA;Inst3;28
+26 Inst3b;Ok;AOP;Pers;0;7;6;1;1;7;7;7;1;7;7;1;1;7;7;7;1;7;6,75;4;1;0,833333333;Male;18;Adventure;Singleplayer;0;Undergraduation;No;PCA;Inst3;0
+26 Inst3b;Ok;AOP;Pers;1;7;7;1;1;7;7;4;1;7;4;1;1;7;7;7;1;7;6,25;3,25;1;1,133333333;Male;18;Adventure;Singleplayer;0;Undergraduation;No;PCA;Inst3;24
+27 Inst3b;Late;AOS;Pers;0;5;2;4;1;4;4;1;1;3;4;1;1;3;4;1;1;3,75;3,5;1,75;1;0,7;Male;20;Platform;Singleplayer;14;Technical;No;PCA;Inst3;0
+27 Inst3b;Late;AOS;Pers;1;4;4;4;2;4;3;3;2;3;7;1;1;4;5;4;1;3,75;4,75;3;1,5;1,3;Male;20;Platform;Singleplayer;14;Technical;No;PCA;Inst3;28
+28 Inst3b;Late;AOS;Pers;0;5;5;4;4;4;5;5;3;6;5;3;5;4;5;4;5;4,75;5;4;4,25;0,833333333;Male;19;Action;Singleplayer;8;Technical;No;PCA;Inst3;0
+29 Inst3b;Late;AOS;Pers;0;6;7;5;1;7;7;7;1;7;2;1;1;6;7;6;1;6,5;5,75;4,75;1;1,5;Female;18;RPG;Multiplayer;3;High school;Yes;PCA;Inst3;0
+30 Inst3b;Late;AOS;Pers;0;5;3;5;3;4;3;4;1;4;4;2;1;4;3;6;3;4,25;3,25;4,25;2;0,266666667;Male;17;Action;Multiplayer;9;Technical;Yes;PCA;Inst3;0
+31 Inst3b;Late;AOS;Pers;0;6;6;4;1;5;6;6;1;6;4;1;1;6;6;6;1;5,75;5,5;4,25;1;1,4;Male;19;Adventure;Multiplayer;20;High school;No;PCA;Inst3;0
+32 Inst3b;Late;AOS;Pers;0;1;1;5;5;2;2;7;7;1;1;7;1;2;1;3;6;1,5;1,25;5,5;4,75;0,166666667;Rather not say;19;Action;Multiplayer;2;High school;Yes;PCA;Inst3;0
+32 Inst3b;Late;AOS;Pers;1;1;2;7;7;1;2;7;6;3;1;6;7;2;4;2;7;1,75;2,25;5,5;6,75;0,6;Rather not say;19;Action;Multiplayer;2;High school;Yes;PCA;Inst3;28
+33 Inst3b;Late;AOS;Pers;0;6;5;6;5;6;6;2;5;6;6;2;2;7;7;6;5;6,25;6;4;4,25;1,333333333;Male;24;RPG;Singleplayer;20;High school;No;PCA;Inst3;0
+33 Inst3b;Late;AOS;Pers;1;6;6;5;2;6;6;5;1;5;7;2;2;4;5;4;1;5,25;6;4;1,5;1;Male;24;RPG;Singleplayer;20;High school;No;PCA;Inst3;28
+34 Inst3b;Late;AOS;Pers;0;6;7;5;3;7;7;6;2;7;7;1;1;2;7;4;6;5,5;7;4;3;1,366666667;Male;19;Strategy;Multiplayer;8;Undergraduation;No;PCA;Inst3;0
+35 Inst3b;Late;AOS;Pers;1;7;6;6;6;6;6;6;4;7;7;4;5;6;7;6;6;6,5;6,5;5,5;5,25;1,5;Male;27;Adventure;Singleplayer;0;High school;No;PCA;Inst3;0
+36 Inst3b;Ok;PBL;OSFA;1;7;7;7;6;7;7;7;1;6;5;1;1;7;7;7;2;6,75;6,5;5,5;2,5;1,5;Rather not say;18;Action;Multiplayer;20;High school;No;PCA;Inst3;0
+37 Inst3b;Ok;PBL;OSFA;1;7;7;5;1;7;7;7;1;7;6;2;1;7;7;7;1;7;6,75;5,25;1;0,666666667;Female;22;Action;Multiplayer;3;High school;No;PCA;Inst3;0
+38 Inst3b;Late;AOS;Pers;1;7;7;6;3;5;5;7;7;5;7;2;1;6;7;6;3;5,75;6,5;5,25;3,5;0,6;Male;19;Strategy;Multiplayer;3;High school;No;PCA;Inst3;0
+39 Inst3b;Ok;AOP;Pers;1;6;6;6;3;4;3;6;3;6;4;6;3;7;4;6;4;5,75;4,25;6;3,25;0,4;Male;20;Strategy;Multiplayer;5;High school;No;PCA;Inst3;0
